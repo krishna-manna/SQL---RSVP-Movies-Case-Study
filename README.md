@@ -15,10 +15,10 @@ You are a data analyst and an SQL expert. You have to use SQL to analyse the giv
  
 
 ## Data Set and Database Creation
-1.Download the IMDb dataset.
-2.The first tab contains the ERD and the table details. Study that carefully and understand the relationships between the table.
-3.Inspect each table given in the subsequent tabs and understand the features associated with each of them.
-4.Open your MySQL Workbench and start writing the DDL and DML commands to create the database.
+-Download the IMDb dataset.
+-The first tab contains the ERD and the table details. Study that carefully and understand the relationships between the table.
+-Inspect each table given in the subsequent tabs and understand the features associated with each of them.
+-Open your MySQL Workbench and start writing the DDL and DML commands to create the database.
 
 
 
